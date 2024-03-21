@@ -1,4 +1,4 @@
 # Transformer implementation from trained on spam_ham classification task
 
-```python tst.py```
+Run model with this command ```python tst.py```
 
